@@ -1,4 +1,4 @@
-pdfkit
 streamlit
+pdfkit
 jinja2
 markupsafe

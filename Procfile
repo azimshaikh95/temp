@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run app.py --server.enableWebsocketCompression=false --server.enableXsrfProtection=false
+web: sh setup.sh && streamlit run result_app.py --server.enableWebsocketCompression=false --server.enableXsrfProtection=false

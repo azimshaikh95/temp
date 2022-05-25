@@ -1,0 +1,4 @@
+pdfkit
+streamlit
+jinja2
+markupsafe
